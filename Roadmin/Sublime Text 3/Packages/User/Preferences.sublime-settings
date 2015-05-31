@@ -1,0 +1,40 @@
+{
+  "default_encoding": "UTF-8",
+  "fallback_encoding": "UTF-8",
+  "show_encoding": true,                 // показать кодировку
+  "detect_indentation": false,           // определить, что используется в качестве отступов - пробелы или табуляции
+  "ensure_newline_at_eof_on_save": true, // добавить пустую строку в конце файла
+  "font_size": 10,
+  "highlight_line": true,                // выделить строку на которой находиться курсор
+  "highlight_modified_tabs": true,       // подсвечивать измененные вкладки
+  "match_brackets_angle": true,          // подсвечивать парные угловые скобки
+  "translate_tabs_to_spaces": true,      // использовать пробелы вместо табуляции
+  "save_on_focus_lost": true,
+  "show_line_endings": true,             // отображать в статусной строке символ конца строки.
+  "word_wrap": "true",                   // отключить горизонтальную прокрутку
+  "always_show_minimap_viewport": false, // рамка для миникарты 
+
+  "tab_size": 2,
+  "draw_white_space": "all",             // показывать табуляцию
+
+
+  "rulers":[120],
+  "wrap_width": 120,
+
+
+  // "trim_trailing_white_space_on_save": true,
+  // "close_windows_when_empty": true,
+  // "open_files_in_new_window": true,``
+
+  "ignored_packages":
+  [
+    "HTML",
+    "CSS",
+    "Vintage",
+    "Color Highlighter"
+  ],
+
+  "folder_exclude_patterns":
+  [".svn",".git",".hg","CVS",".sass-cache","node_modules"]
+}
+

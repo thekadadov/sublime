@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Gutter Color",
+		"HTML5",
+		"LESS",
+		"Package Control",
+		"SublimeCodeIntel"
+	]
+}
